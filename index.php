@@ -1,6 +1,6 @@
 <?php
 
-use Nimarya\Simple\Entities\Url;
+use App\Entities\Url;
 
 require_once './vendor/autoload.php';
 require './autoload.php';
